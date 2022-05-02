@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Vehicle_Management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Vehicle_Management.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

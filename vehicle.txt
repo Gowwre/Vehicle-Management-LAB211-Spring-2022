@@ -1,0 +1,2 @@
+C00001,Vios,Toyota,Yellow,777.0,Race,1999
+M00001,Cub,Honda,Red,999.0,199,true
